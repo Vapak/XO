@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\XO\XO\bin\Debug\netcoreapp3.1\XO.exe
+C:\Users\admin\source\repos\XO\XO\bin\Debug\netcoreapp3.1\XO.deps.json
+C:\Users\admin\source\repos\XO\XO\bin\Debug\netcoreapp3.1\XO.runtimeconfig.json
+C:\Users\admin\source\repos\XO\XO\bin\Debug\netcoreapp3.1\XO.runtimeconfig.dev.json
+C:\Users\admin\source\repos\XO\XO\bin\Debug\netcoreapp3.1\XO.dll
+C:\Users\admin\source\repos\XO\XO\bin\Debug\netcoreapp3.1\XO.pdb
+C:\Users\admin\source\repos\XO\XO\obj\Debug\netcoreapp3.1\XO.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\XO\XO\obj\Debug\netcoreapp3.1\XO.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\XO\XO\obj\Debug\netcoreapp3.1\XO.AssemblyInfo.cs
+C:\Users\admin\source\repos\XO\XO\obj\Debug\netcoreapp3.1\XO.dll
+C:\Users\admin\source\repos\XO\XO\obj\Debug\netcoreapp3.1\XO.pdb
